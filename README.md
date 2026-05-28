@@ -31,7 +31,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=johnreybillones&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&card_width=400)
 ![](https://streak-stats.demolab.com/?user=johnreybillones&theme=tokyonight&hide_border=false&card_width=400)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=johnreybillones&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=450)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=johnreybillones&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=400)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
