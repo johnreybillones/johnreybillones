@@ -1,6 +1,6 @@
 <div align="center">
 
-  #👋🏼 Hi! I'm John Rey
+#👋🏼 Hi! I'm John Rey
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=600&size=16&duration=5000&pause=1000&width=1000&height=30&center=true&vCenter=true&lines=Full-Stack+Developer+%26+Automation+Engineer+|+TypeScript%2C+React.js%2C+FastAPI;Workflow+Automation%2C+Full-Stack+Web+Development)](https://git.io/typing-svg)
 
