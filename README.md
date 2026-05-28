@@ -11,7 +11,7 @@
 ---
 
 <details>
-<summary><b>💻 View My Tech Stack</b></summary>
+<summary><h1>💻 View My Tech Stack</h1></summary>
 <br>
 
 ### Languages:
@@ -32,7 +32,7 @@
 </details>
 
 <details>
-<summary><b>📊 View My GitHub Stats</b></summary>
+<summary><h1>📊 View My GitHub Stats</h1></summary>
 <br>
 
 <div align="center">
