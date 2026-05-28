@@ -5,25 +5,24 @@ Hi I'm John Rey
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/johnreybillonesss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/John Rey Billones) 
 
-# 💻 Languages:
+# 💻 Tech Stack
+
+## Languages:
 [![My Skills](https://skillicons.dev/icons?i=typescript,js,html,css,python,php)](https://skillicons.dev)
 
-# 💻 Frontend:
-[![My Skills](https://skillicons.dev/icons?i=reactjs,nextjs,tailwindcss)](https://skillicons.dev)
+## Frontend:
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwindcss)](https://skillicons.dev)
 
-# 💻 Backend:
+## Backend:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,laravel)](https://skillicons.dev)
 
-# 💻 Database:
+## Database:
 [![My Skills](https://skillicons.dev/icons?i=supabase,postgres,redis,sqlite,mysql,mongodb)](https://skillicons.dev)
 
-# 💻 Deployment:
+## Deployment:
 [![My Skills](https://skillicons.dev/icons?i=docker,vercel,netlify,aws,cloudflare)](https://skillicons.dev)
 
-# 💻 Automation:
-
-# 💻 Tools:
-[![My Skills](https://skillicons.dev/icons?i=postman,notion,obsidian)](https://skillicons.dev)
+## Automation:
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=johnreybillones&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -40,6 +39,6 @@ Hi I'm John Rey
 ![](https://github-contributor-stats.vercel.app/api?username=johnreybillones&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=johnreybillones&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=johnreybillones&icon=0&color=blue)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
