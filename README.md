@@ -3,7 +3,7 @@ Hi I'm John Rey
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/johnreybillonesss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/John Rey Billones) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/johnreybillonesss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johnreybillones) 
 
 # 💻 Tech Stack
 
@@ -25,18 +25,12 @@ Hi I'm John Rey
 ## Automation:
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=johnreybillones&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=johnreybillones&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=johnreybillones&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=johnreybillones&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.shion.dev/api?username=johnreybillones&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&card_width=450)<br/>
+![](https://streak-stats.demolab.com/?user=johnreybillones&theme=tokyonight&hide_border=false&card_width=450)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=johnreybillones&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=450)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=johnreybillones&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=johnreybillones&icon=0&color=blue)](https://visitcount.itsvg.in)
