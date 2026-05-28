@@ -5,11 +5,14 @@
 
 </div>
 
-
 ### 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/johnreybillonesss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johnreybillones) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/johnreybillonesss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johnreybillones) 
 
-## 💻 Tech Stack
+---
+
+<details>
+<summary><b>💻 View My Tech Stack</b></summary>
+<br>
 
 ### Languages:
 [![My Skills](https://skillicons.dev/icons?i=typescript,js,html,css,python,php)](https://skillicons.dev)
@@ -26,17 +29,33 @@
 ### Deployment:
 [![My Skills](https://skillicons.dev/icons?i=docker,vercel,netlify,aws,cloudflare)](https://skillicons.dev)
 
-### Automation:
+</details>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=johnreybillones&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&card_width=400)
-![](https://streak-stats.demolab.com/?user=johnreybillones&theme=tokyonight&hide_border=false&card_width=400)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=johnreybillones&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=400)
+<details>
+<summary><b>📊 View My GitHub Stats</b></summary>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=johnreybillones&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&card_width=400" />
+  <img src="https://streak-stats.demolab.com/?user=johnreybillones&theme=tokyonight&hide_border=false&card_width=400" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=johnreybillones&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=400" />
+</div>
+
+</details>
+
+---
+
+<div align="center">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
 [![](https://komarev.com/ghpvc/?username=johnreybillones&icon=0&color=blue)](https://visitcount.itsvg.in)
 
 ![Snake animation](https://raw.githubusercontent.com/johnreybillones/johnreybillones/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
