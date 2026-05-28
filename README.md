@@ -39,4 +39,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=johnreybillones&icon=0&color=blue)](https://visitcount.itsvg.in)
 
-![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/johnreybillones/johnreybillones/output/github-contribution-grid-snake-dark.svg)
