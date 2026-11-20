@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&section=header&reversal=false&text=John+Rey+F.+Billones&textBg=false&fontSize=60&fontAlign=50&fontAlignY=35&animation=fadeIn&rotate=0&strokeWidth=0&desc=Full+Stack+Developer+%7C+AI+Automation+Engineer&descSize=20&descAlign=50&descAlignY=57">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&reversal=false&text=John+Rey+F.+Billones&textBg=false&fontSize=48&fontAlign=50&fontAlignY=30&animation=fadeIn&rotate=0&strokeWidth=0&desc=Full+Stack+Developer+%7C+AI+Automation+Engineer&descSize=17&descAlign=50&descAlignY=52">
 
 </div>
 
@@ -31,12 +31,12 @@
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,js,html,css,python,php" alt="TypeScript, JavaScript, HTML, CSS, Python, PHP">
+  <img src="https://skillicons.dev/icons?i=typescript,js,python,php" alt="TypeScript, JavaScript, HTML, CSS, Python, PHP">
 </p>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss" alt="React, Next.js, Tailwind CSS">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwindcss,html,css" alt="React, Next.js, Tailwind CSS">
 </p>
 
 <h3 align="center">Backend</h3>
@@ -51,7 +51,7 @@
 
 <h3 align="center">Deployment</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,aws,cloudflare" alt="Docker, Vercel, Netlify, AWS, Cloudflare">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify,aws,gcp,azure,cloudflare" alt="Docker, Vercel, Netlify, AWS, Cloudflare">
 </p>
 
 ## 📊 GitHub Stats
