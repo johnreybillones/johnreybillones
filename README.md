@@ -74,7 +74,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=johnreybillones&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&card_width=400" alt="GitHub Stats">
+  <img src="https://github-readme-stats.shion.dev/api?username=johnreybillones&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&card_width=400" alt="GitHub Stats">
   &nbsp;
   <img src="https://streak-stats.demolab.com/?user=johnreybillones&theme=tokyonight&hide_border=false&card_width=400" alt="GitHub Streak">
 </div>
@@ -82,7 +82,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=johnreybillones&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=400" alt="Top Languages">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=johnreybillones&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=400" alt="Top Languages">
 </div>
 
 <br/>
