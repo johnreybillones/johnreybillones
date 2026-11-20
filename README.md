@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&reversal=false&text=John+Rey+F.+Billones&textBg=false&fontSize=48&fontAlign=50&fontAlignY=30&animation=fadeIn&rotate=0&strokeWidth=0&desc=Full+Stack+Developer+%7C+AI+Automation+Engineer&descSize=17&descAlign=50&descAlignY=52">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,100:167D91&section=header&text=John+Rey+F.+Billones&textBg=false&fontSize=48&fontColor=FFFFFF&fontAlign=50&fontAlignY=30&animation=fadeIn&desc=Full+Stack+Developer+%7C+AI+Automation+Engineer&descSize=17&descColor=FFFFFF&descAlign=50&descAlignY=52">
 
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=johnreybillones&icon=0&color=blue" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=johnreybillones&icon=0&color=2C9FB8&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 ## 🌐 Socials
@@ -14,16 +14,16 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/johnreybillones">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-155E75?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>&nbsp;&nbsp;
   <a href="https://facebook.com/jrbillonesss">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-155E75?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>&nbsp;&nbsp;
   <a href="mailto:johnreybillones17@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-155E75?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>&nbsp;&nbsp;
   <a href="https://johnreybillones.vercel.app">
-    <img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-155E75?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
   </a>
 </p>
 
@@ -48,12 +48,12 @@
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,js,python,php" alt="TypeScript, JavaScript, HTML, CSS, Python, PHP">
+  <img src="https://skillicons.dev/icons?i=typescript,js,python,php" alt="TypeScript, JavaScript, Python, PHP">
 </p>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwindcss,html,css" alt="React, Next.js, Tailwind CSS">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwindcss,html,css" alt="Next.js, React, Tailwind CSS, HTML, CSS">
 </p>
 
 <h3 align="center">Backend</h3>
@@ -68,36 +68,35 @@
 
 <h3 align="center">Deployment</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify,aws,gcp,azure,cloudflare" alt="Docker, Vercel, Netlify, AWS, Cloudflare">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify,aws,gcp,azure,cloudflare" alt="Docker, Kubernetes, Vercel, Netlify, AWS, GCP, Azure, Cloudflare">
 </p>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=johnreybillones&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&card_width=400" alt="GitHub Stats">
+  <img src="https://github-readme-stats.shion.dev/api?username=johnreybillones&bg_color=0D1117&title_color=4CC9E8&text_color=C9D1D9&icon_color=4CC9E8&hide_border=true&include_all_commits=true&count_private=true&card_width=400" alt="GitHub Stats">
   &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=johnreybillones&theme=tokyonight&hide_border=false&card_width=400" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=johnreybillones&background=0D1117&ring=4CC9E8&fire=4CC9E8&currStreakNum=4CC9E8&currStreakLabel=4CC9E8&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&hide_border=true&card_width=400" alt="GitHub Streak">
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=johnreybillones&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=400" alt="Top Languages">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=johnreybillones&bg_color=0D1117&title_color=4CC9E8&text_color=C9D1D9&hide_border=true&layout=compact&card_width=400" alt="Top Languages">
 </div>
 
 <br/>
 
 <p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnreybillones&theme=react-dark" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnreybillones&bg_color=0D1117&color=4CC9E8&line=4CC9E8&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph">
 </p>
 
-  <br/>
+<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/johnreybillones/johnreybillones/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 </div>
-  
+
 ## ✍️ Random Dev Quote
 
 <div align="center">
