@@ -41,7 +41,7 @@
 | [TechGap: Curriculum Gap Analysis](https://github.com/officialtechgap/techgap-final) | An NLP pipeline that processes 10,000+ job listings to identify curriculum-to-industry skill gaps across four academic tracks, with an analytics dashboard for curriculum reviewers. | React, Tailwind CSS, FastAPI, Supabase |
 | [Day Care Center Management System](https://github.com/johnreybillones/San-Antonio-De-Padua-1-DCCMS) | An offline-first system for managing day care records and attendance, with automated PDF and XLSX report generation. | React, TypeScript, Tailwind CSS, IndexedDB, Cloudflare D1 |
 | [Agrain: Alamin ang Tamang Presyo](https://github.com/johnreybillones/Agrain) | An offline-first PWA that helps smallholder farmers check fair crop prices and calculate prices during negotiations. | React, Tailwind CSS, IndexedDB |
-| [Automata Visualizer](https://github.com/johnreybillones/Automata-Visualizer) | An interactive tool for exploring deterministic finite automata and visualizing input transitions. | Frontend |
+| [Automata Visualizer](https://github.com/johnreybillones/Automata-Visualizer) | An interactive tool for exploring deterministic finite automata and visualizing input transitions. | Next.js, TypeScript, Tailwind CSS |
 | [Digital Daily Time Record Tracker](https://docs.google.com/spreadsheets/d/1Zs_KvcTe85bJoxMW5xRIGHkNmhteyWwSeI7fsem4WoI) | A time-record tracking supplement for 200+ scholars, with input validation and automated shift calculations. | Google Sheets, Google Apps Script |
 
 ## 💻 Tech Stack
@@ -91,13 +91,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnreybillones&bg_color=0D1117&color=4CC9E8&line=4CC9E8&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph">
 </p>
 
-<br/>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/johnreybillones/johnreybillones/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 </div>
 
-## ✍️ Random Dev Quote
+<hr>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
