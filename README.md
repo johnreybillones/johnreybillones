@@ -80,6 +80,23 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/johnreybillones/johnreybillones/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 </div>
+
+## 🏆 Achievements
+
+| Achievement | Project | Result |
+|---|---|---|
+| PLDT AI in 30 Hours Hackathon | [SAGIP](https://github.com/4regab/sagip) | **1st place out of 443 teams** |
+
+## 🚀 Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| [SAGIP](https://github.com/4regab/sagip) | AI-powered solution built for the PLDT AI in 30 Hours Hackathon. | Next.js, Kotlin, TypeScript, Tailwind CSS |
+| [TechGap: Curriculum Gap Analysis](https://github.com/officialtechgap/techgap-final) | An NLP pipeline that processes 10,000+ job listings to identify curriculum-to-industry skill gaps across four academic tracks, with an analytics dashboard for curriculum reviewers. | React, Tailwind CSS, FastAPI, Supabase |
+| [Day Care Center Management System](https://github.com/johnreybillones/San-Antonio-De-Padua-1-DCCMS) | An offline-first system for managing day care records and attendance, with automated PDF and XLSX report generation. | React, TypeScript, Tailwind CSS, IndexedDB, Cloudflare D1 |
+| [Agrain: Alamin ang Tamang Presyo](https://github.com/johnreybillones/Agrain) | An offline-first PWA that helps smallholder farmers check fair crop prices and calculate prices during negotiations. | React, Tailwind CSS, IndexedDB |
+| [Automata Visualizer](https://github.com/johnreybillones/Automata-Visualizer) | An interactive tool for exploring deterministic finite automata and visualizing input transitions. | Frontend |
+| [Digital Daily Time Record Tracker](https://docs.google.com/spreadsheets/d/1Zs_KvcTe85bJoxMW5xRIGHkNmhteyWwSeI7fsem4WoI) | A time-record tracking supplement for 200+ scholars, with input validation and automated shift calculations. | Google Sheets, Google Apps Script |
   
 ## ✍️ Random Dev Quote
 
